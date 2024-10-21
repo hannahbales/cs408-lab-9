@@ -1,24 +1,15 @@
 # CS408 - Lab9.2
+Author: Hannah Bales
+Fall 2024
 
 ## Overview
 
-TODO: Write a project description
+This project demos an interactive bouncy ball display including an evil circle that eats the balls and keeps count of the remaining uneated balls.
+
+## Run Code
+
+To assess this code, simply pull up the Live Preview.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
-
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
+ChatGPT - troubleshooting
